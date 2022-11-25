@@ -1,0 +1,12 @@
+<accounts>
+    <account>
+        <login>ArtyomMaisiuk</login>
+        <password>9e1774b83c29e5886cfad800a09529700838f61203851bde75bf8bea4e3a0d81</password>
+        <role>ADMIN</role>
+    </account>
+    <profile>
+        <login>JonDoe</login>
+        <password>5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8</password>
+        <role>USER</role>
+    </profile>
+</accounts>

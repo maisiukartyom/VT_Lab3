@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<archive_db xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="archive_db.xsd">
+
+    <students>
+        <student id="s0">
+            <name>Pasha</name>
+            <surname>Vashkevich</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>5.0</average_score>
+        </student>
+        <student id="s1">
+            <name>Dzmitry</name>
+            <surname>Susha</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>10.0</average_score>
+        </student>
+        <student id="s2">
+            <name>Nastya</name>
+            <surname>Abakanovich</surname>
+            <university>BSUIR</university>
+            <speciality>POIT</speciality>
+            <cource_number>3</cource_number>
+            <average_score>8.0</average_score>
+        </student>
+    </students>
+
+</archive_db>
